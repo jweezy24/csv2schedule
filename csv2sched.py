@@ -71,7 +71,7 @@ def joinIndented(lines, indent):
 
 
 sectionTemplate = '''
-:doc:`{docName}`{topic} {term}
+:doc:`../../courses/{docName}`{topic} {term}
     | Section {section} ({regCode}) Credits: {credits}; {mixture}; {format}
     | Instructor: {instructor}
 {placeTimes}
@@ -80,7 +80,7 @@ sectionTemplate = '''
 ''' # docName link should give full course title - so not 388/488
 
 comp314_315Template = '''
-{area} {number} {term} (Description: :doc:`comp314-315`)
+{area} {number} {term} (Description: :doc:`../../courses/comp314-315`)
     | Section {section} ({regCode}) Credits: {credits}; {mixture}; {format}
     | Instructor: {instructor}
 {placeTimes}
