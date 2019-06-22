@@ -1,7 +1,8 @@
+:orphan:
 
 Fall 2019 Schedule ( Watertower Campus )
 ==========================================================================
-Updated 04/15/2019 17:17:07
+Updated 06/12/2019 14:06:07
 
 The following courses will (tentatively) be held during the Fall 2019 semester.
 
@@ -39,7 +40,7 @@ Undergraduate Courses
 
 
 
-:doc:`comp398` 1-6 credits
+:doc:`../../courses/comp398` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
@@ -55,7 +56,7 @@ Graduate Courses
 
 
 
-:doc:`comp490` 1-6 credits
+:doc:`../../courses/comp490` 1-6 credits
     You cannot register
     yourself for an independent study course!
     You must find a faculty member who
